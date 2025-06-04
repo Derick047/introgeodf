@@ -1,2 +1,2 @@
 # PC4 - Derick Guzman Moya y CLAUDIA YESENIA POMAHUALLCA CHAHUA
-### En este proyecto se realizó un análisis comparativo entre países utilizando datos del CIA World Factbook relacionados con cuatro variables clave: gasto en educación, capacidad eléctrica instalada, consumo de energía per cápita y reservas internacionales. El proceso completo puede visualizarse en el siguiente enlace: [PC3](https://derick047.github.io/PC3/)
+### Este proyecto es una introducción al análisis de datos geoespaciales con Python usando GeoPandas. Se trabajó con capas vectoriales de países, ríos y ciudades, enfocando el análisis en Estados Unidos (USA). Incluye lectura, visualización y exportación de datos en formato GeoPackage. [PC4](https://derick047.github.io/introgeodf/)
